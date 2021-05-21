@@ -8,3 +8,4 @@ Introduce my self
 마인크래프트 플러그인만 제작합니다.
 
 # STATS
+Stats

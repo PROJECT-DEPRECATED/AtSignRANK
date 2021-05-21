@@ -9,11 +9,11 @@ Introduce my self
 
 ## STATS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RANK0816&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaemin-MC&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" style="width: 100%" />
 </div>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANK0816&theme=dark&hide_border=true&layout=compact" align="center" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaemin-MC&theme=dark&hide_border=true&layout=compact" align="center" style="width: 100%" />
 </div>  
 
 <br/>  

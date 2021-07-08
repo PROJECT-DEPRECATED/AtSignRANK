@@ -7,6 +7,9 @@ Introduce my self
 ## Just Minecraft Plugin
 마인크래프트 플러그인만 제작합니다.
 
+## Not Now (현재는 아닙니다.)
+**내가 하고 싶은거 하겠다는데 문제있어!**
+
 ## STATS
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AtSignRANK&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" style="width: 100%" />

@@ -20,3 +20,10 @@ Introduce my self
 </div>  
 
 <br/>  
+
+## My Lang
+<div align="center">
+<a href="https://kotlinlang.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>
+<a href="https://www.python.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Kotlin" height="50" /></a>
+<a href="https://https://devdocs.io/c/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="Kotlin" height="50" /></a>
+</div>

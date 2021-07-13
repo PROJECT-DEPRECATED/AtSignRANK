@@ -1,14 +1,8 @@
 # Introduce
 Introduce my self
 
-## Korean Minecraft Plugin
+## Korean
 한국인입니다.
-
-## Just Minecraft Plugin
-마인크래프트 플러그인만 제작합니다.
-
-- Not Now (현재는 아닙니다.)
-- **내가 하고 싶은거 하겠다는데 문제있어!**
 
 ## STATS
 <div align="center">

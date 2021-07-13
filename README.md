@@ -23,7 +23,7 @@ Introduce my self
 <a href="https://devdocs.io/cpp/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
 </div>
 
-## Helper
+## Helper (My Online Teacher)
 <a href="https://github.com/ProjectTL12345"><img style="margin: 20px" src="https://avatars.githubusercontent.com/u/53290556?v=4" alt="ProjectTL" height="50px"/></a>
 
 ## Organizations

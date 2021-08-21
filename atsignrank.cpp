@@ -1,9 +1,9 @@
 #include <bits/stdc++.h>
 char atsignrank[] = "At Sign RANK";
-bool isRANK_idiot = true;
+bool isASR = true;
 int main() {
   printf("Name : %s", atsignrank);
   printf("Born : %.4lf", 2008.1104);
-  printf("RANK == idiot : %d", isRANK_idiot);
+  printf("RANK == ASR : %d", isASR);
   return 0;
 }
